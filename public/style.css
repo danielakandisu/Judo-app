@@ -1,0 +1,15 @@
+
+
+
+.registerForm{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
+
+input {
+
+    border-radius: 1em;
+}
